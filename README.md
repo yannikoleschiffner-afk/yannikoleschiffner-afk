@@ -1,6 +1,6 @@
 ## Yannik Schiffner
 
-I'm doing an MSc in Finance at NUS in Singapore, after a business degree at LMU Munich. Most of what's on this page began as a question about how markets really behave, and I wanted an answer from data rather than from a textbook.
+I'm doing an MSc in Finance at NUS in Singapore, after a business degree at LMU Munich. Below are the projects I've built so far.
 
 **[Retail order execution quality at U.S. wholesalers](https://github.com/yannikoleschiffner-afk/us-equity-execution-quality)**
 My bachelor thesis (grade 1.0). The usual assumption is that Citadel and Virtu give retail orders the best prices because they're the biggest. I went through two years of SEC Rule 605 reports, and a smaller firm, G1X Susquehanna, did better almost every time.
