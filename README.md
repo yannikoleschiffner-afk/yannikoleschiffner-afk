@@ -14,4 +14,4 @@ A bot that watches large trades on Polymarket and flags wallets that look like t
 **[AI agent for a Kaggle market simulation](https://github.com/yannikoleschiffner-afk/kaggle-market-simulation-agent)**
 My entry for Kaggriculture, a two-player farming game with a market that reacts to what both players sell. It finished in the top 100 of more than 10,000 entrants. Most of the hours went into replaying games I lost and working out why.
 
-I write mostly Python (pandas, statsmodels, Hugging Face) and use R or Excel/VBA when a course or a team asks for it. A lot of this code was written together with Claude Code. But deciding what to test, and which results to believe, was my job.
+I mostly work in Python (pandas, statsmodels, Hugging Face), plus R and Excel/VBA.
